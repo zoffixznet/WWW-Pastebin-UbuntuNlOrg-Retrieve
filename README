@@ -1,0 +1,43 @@
+WWW-Pastebin-UbuntuNlOrg-Retrieve
+
+The module provides interface to retrieve pastes from
+L<http://paste.ubuntu-nl.org/> website via Perl.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Build.PL
+    ./Build
+    ./Build test
+    ./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WWW::Pastebin::UbuntuNlOrg::Retrieve
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-Pastebin-UbuntuNlOrg-Retrieve
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/WWW-Pastebin-UbuntuNlOrg-Retrieve
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/WWW-Pastebin-UbuntuNlOrg-Retrieve
+
+    Search CPAN
+        http://search.cpan.org/dist/WWW-Pastebin-UbuntuNlOrg-Retrieve
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 'Zoffix
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
